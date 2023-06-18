@@ -1,0 +1,102 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "yooo",
+        "hihi",
+        "wassup"
+      ],
+      "responses": [
+        "hewwo",
+        "yoo",
+        "Hi, This is HaiRun",
+        "yeah I see you"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "cya",
+        "byeee",
+        "gngn"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "invitation",
+      "patterns": [
+        "Do you want to grab lunch?",
+        "Do you want to grab dinner?",
+        "Want to go to the gym?",
+        "wanna get dinner?",
+        "wanna get lunch?"
+      ],
+      "responses": [
+        "aight bet",
+        "oh shit what",
+        "green flag bby",
+        "yeah, I can get you a meal ticket",
+        "yeah fsfs",
+        "down"
+      ]
+    },
+    {
+      "tag": "misc",
+      "patterns": [
+        "I got an A on my test",
+        "I got tickets to the taylor swift concert!",
+        "What are you"
+      ],
+      "responses": [
+        "LETS GOOO",
+        "YEAHH BRUHHH",
+        "panda express honey walnut shrimp bby",
+        "that's a banger"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "I'm afraid for the calendar. Its days are numbered.",
+        "My wife said I should do lunges to stay in shape. That would be a big step forward.",
+        "Why do fathers take an extra pair of socks when they go golfing? In case they get a hole in one!",
+        "Singing in the shower is fun until you get soap in your mouth. Then it's a soap opera.",
+        "What do a tick and the Eiffel Tower have in common? They're both Paris sites.",
+        "What do you call a fish wearing a bowtie?Sofishticated.",
+        "How do you follow Will Smith in the snow? You follow the fresh prints.",
+        "stoopid",
+        "lmao",
+        "shittt"
+      ]
+    },
+    {
+      "tag": "personality",
+      "patterns": [
+        "What's your personality type?",
+        "What's your MBTI?",
+        "What are you?",
+        "mbti?"
+      ],
+      "responses": [
+        "Your Type :D"
+      ]
+    }
+  ]
+}
